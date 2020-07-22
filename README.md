@@ -200,6 +200,8 @@ Mar. 2017 – Aug. 2020
   - [Introduction to Reinforcement Learning](#Reinforcement-Learning)
   - [Artificial Intelligence Project](#Artificial-Intelligence-Project)
 
+<br>
+
 ## Awards and Honors
 
 ### The National Scholarship for Science and Engineering
@@ -223,6 +225,8 @@ Spring 2017 – Fall2019
 
 - In recognition of high scholastic achievement
 
+<br>
+
 ## Work Experience
 
 ### Artificial Intelligence Institute of Seoul National University ([AIIS](#AIIS))
@@ -245,12 +249,14 @@ Jun. 2020 – Aug. 2020
 - Tested and debugged ETRI Deep Learning HPC Platform Dashboard
 - [Implemented AlexNet and ResNet models with DL-MDL to serve as example deep learning models](#projects-at-etri)
 
+<br>
+
 ## Skills
 
 - Programming Language: C, C++, Python, JavaScript
 - Machine Learning Tool: TensorFlow, Keras, PyTorch
 
-----
+<br>
 
 [PDF](CV.pdf)
 
