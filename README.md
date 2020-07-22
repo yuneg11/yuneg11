@@ -42,16 +42,16 @@ Spring 2017 – Fall2019
 
 ## Work Experience
 
-### Artificial Intelligence Institute of Seoul National University (AIIS[¹](#AIIS))
+### Artificial Intelligence Institute of Seoul National University ([AIIS](#AIIS))
 
-Applied Data Science Laboratory (ADSL[²](#ADSL))  
+Applied Data Science Laboratory ([ADSL](#ADSL))  
 Seoul, Korea  
 Jun. 2020 – Aug. 2020  
 
 - _Research Intern_
-- [Conducted research on model interpretability](#Projects-at-AIIS¹--ADSL²)
+- [Conducted research on model interpretability](#projects-at-aiis--adsl)
 
-### Electronics and Telecommunications Research Institute (ETRI[³](#ETRI))
+### Electronics and Telecommunications Research Institute ([ETRI](#ETRI))
 
 Artificial Intelligence Research Laboratory  
 Daejeon, Korea  
@@ -60,7 +60,7 @@ Jun. 2020 – Aug. 2020
 - _Research Intern_
 - Conducted market research on cloud-based machine learning solutions
 - Tested and debugged ETRI Deep Learning HPC Platform Dashboard
-- [Implemented AlexNet and ResNet models with DL-MDL to serve as example deep learning models](#Projects-at-ETRI³)
+- [Implemented AlexNet and ResNet models with DL-MDL to serve as example deep learning models](#projects-at-etri)
 
 ## Skills
 
@@ -238,7 +238,7 @@ Jun. 2020 – Aug. 2020
 
 <br>
 
-## Projects at ETRI[³](#ETRI)
+## Projects at [ETRI](#ETRI)
 
 | Repository | Description |
 | ---- | ---- |
@@ -246,7 +246,7 @@ Jun. 2020 – Aug. 2020
 
 <br>
 
-## Projects at AIIS[¹](#AIIS) / ADSL[²](#ADSL)
+## Projects at [AIIS](#AIIS) / [ADSL](#ADSL)
 
 | Repository | Description |
 | ---- | ---- |
@@ -256,6 +256,6 @@ Jun. 2020 – Aug. 2020
 
 ----
 
-<span id="AIIS">1</span>: [Artificial Intelligence Institute of Seoul National University](https://www.facebook.com/ai.aiis.snu/)  
-<span id="ADSL">2</span>: [Applied Data Science Laboratory](http://adsl.snu.ac.kr)  
-<span id="ETRI">3</span>: [Electronics and Telecommunications Research Institute](https://www.etri.re.kr)  
+<b id="AIIS">AIIS</b>: [Artificial Intelligence Institute of Seoul National University](https://www.facebook.com/ai.aiis.snu/)  
+<b id="ADSL">ADSL</b>: [Applied Data Science Laboratory](http://adsl.snu.ac.kr)  
+<b id="ETRI">ETRI</b>: [Electronics and Telecommunications Research Institute](https://www.etri.re.kr)  
