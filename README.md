@@ -12,10 +12,10 @@ Mar. 2017 – Aug. 2020
 - Overall GPA: 4.33 / 4.5
 - Major GPA: 4.47 / 4.5
 - Relevant Courses
-  - Introduction to Artificial Intelligence
-  - Fundamentals of Machine Learning
-  - Introduction to Reinforcement Learning
-  - Artificial Intelligence Project
+  - [Introduction to Artificial Intelligence](#Artificial-Intelligence)
+  - [Fundamentals of Machine Learning](#Machine-Learning)
+  - [Introduction to Reinforcement Learning](#Reinforcement-Learning)
+  - [Artificial Intelligence Project](#Artificial-Intelligence-Project)
 
 ## Awards and Honors
 
@@ -42,16 +42,16 @@ Spring 2017 – Fall2019
 
 ## Work Experience
 
-### Artificial Intelligence Institute of Seoul National University (AIIS<sup>[1](#AIIS)</sup>)
+### Artificial Intelligence Institute of Seoul National University (AIIS[¹](#AIIS))
 
-Applied Data Science Laboratory (ADSL<sup>[2](#ADSL)</sup>)  
+Applied Data Science Laboratory (ADSL[²](#ADSL))  
 Seoul, Korea  
 Jun. 2020 – Aug. 2020  
 
 - _Research Intern_
-- Conducted research on model interpretability
+- [Conducted research on model interpretability](#Projects-at-AIIS¹--ADSL²)
 
-### Electronics and Telecommunications Research Institute (ETRI<sup>[3](#ETRI)</sup>)
+### Electronics and Telecommunications Research Institute (ETRI[³](#ETRI))
 
 Artificial Intelligence Research Laboratory  
 Daejeon, Korea  
@@ -59,8 +59,8 @@ Jun. 2020 – Aug. 2020
 
 - _Research Intern_
 - Conducted market research on cloud-based machine learning solutions
-- Testedand debuggedETRI Deep Learning HPC Platform Dashboard
-- ImplementedAlexNet and ResNetmodels with DL-MDL to serve as example deep learning models
+- Tested and debugged ETRI Deep Learning HPC Platform Dashboard
+- [Implemented AlexNet and ResNet models with DL-MDL to serve as example deep learning models](#Projects-at-ETRI³)
 
 ## Skills
 
@@ -238,7 +238,7 @@ Jun. 2020 – Aug. 2020
 
 <br>
 
-## Projects at ETRI<sup>[3](#ETRI)</sup>
+## Projects at ETRI[³](#ETRI)
 
 | Repository | Description |
 | ---- | ---- |
@@ -246,7 +246,7 @@ Jun. 2020 – Aug. 2020
 
 <br>
 
-## Projects at AIIS<sup>[1](#AIIS)</sup> / ADSL<sup>[2](#ADSL)</sup>
+## Projects at AIIS[¹](#AIIS) / ADSL[²](#ADSL)
 
 | Repository | Description |
 | ---- | ---- |
