@@ -1,78 +1,3 @@
-# Curriculum Vitae
-
-## Education
-
-### Sungkyunkwan University
-
-Department of Computer Science and Engineering  
-Seoul, Korea  
-Mar. 2017 – Aug. 2020
-
-- _Bachelor of Science in Computer Science and Engineering_
-- Overall GPA: 4.33 / 4.5
-- Major GPA: 4.47 / 4.5
-- Relevant Courses
-  - [Introduction to Artificial Intelligence](#Artificial-Intelligence)
-  - [Fundamentals of Machine Learning](#Machine-Learning)
-  - [Introduction to Reinforcement Learning](#Reinforcement-Learning)
-  - [Artificial Intelligence Project](#Artificial-Intelligence-Project)
-
-## Awards and Honors
-
-### The National Scholarship for Science and Engineering
-
-Korea Student Aid Foundation  
-Spring 2019 – Spring 2020  
-
-- Full tuition
-
-### Sungkyun Software Scholarship
-
-Korea Student Aid Foundation  
-Spring 2017 – Fall 2018  
-
-- Half tuition
-
-### Dean’s List Award
-
-College of Computing, Sungkyunkwan University  
-Spring 2017 – Fall2019  
-
-- In recognition of high scholastic achievement
-
-## Work Experience
-
-### Artificial Intelligence Institute of Seoul National University ([AIIS](#AIIS))
-
-Applied Data Science Laboratory ([ADSL](#ADSL))  
-Seoul, Korea  
-Jun. 2020 – Aug. 2020  
-
-- _Research Intern_
-- [Conducted research on model interpretability](#projects-at-aiis--adsl)
-
-### Electronics and Telecommunications Research Institute ([ETRI](#ETRI))
-
-Artificial Intelligence Research Laboratory  
-Daejeon, Korea  
-Jun. 2020 – Aug. 2020  
-
-- _Research Intern_
-- Conducted market research on cloud-based machine learning solutions
-- Tested and debugged ETRI Deep Learning HPC Platform Dashboard
-- [Implemented AlexNet and ResNet models with DL-MDL to serve as example deep learning models](#projects-at-etri)
-
-## Skills
-
-- Programming Language: C, C++, Python, JavaScript
-- Machine Learning Tool: TensorFlow, Keras, PyTorch
-
-----
-
-[PDF](CV.pdf)
-
-<br>
-
 # Repository List
 
 **Some repositories are private**
@@ -253,6 +178,81 @@ Jun. 2020 – Aug. 2020
 | [CNN-Visualization](https://github.com/yuneg11/CNN-Visualization) | CNN visualization methods |
 
 <br>
+
+----
+
+# Curriculum Vitae
+
+## Education
+
+### Sungkyunkwan University
+
+Department of Computer Science and Engineering  
+Seoul, Korea  
+Mar. 2017 – Aug. 2020
+
+- _Bachelor of Science in Computer Science and Engineering_
+- Overall GPA: 4.33 / 4.5
+- Major GPA: 4.47 / 4.5
+- Relevant Courses
+  - [Introduction to Artificial Intelligence](#Artificial-Intelligence)
+  - [Fundamentals of Machine Learning](#Machine-Learning)
+  - [Introduction to Reinforcement Learning](#Reinforcement-Learning)
+  - [Artificial Intelligence Project](#Artificial-Intelligence-Project)
+
+## Awards and Honors
+
+### The National Scholarship for Science and Engineering
+
+Korea Student Aid Foundation  
+Spring 2019 – Spring 2020  
+
+- Full tuition
+
+### Sungkyun Software Scholarship
+
+Korea Student Aid Foundation  
+Spring 2017 – Fall 2018  
+
+- Half tuition
+
+### Dean’s List Award
+
+College of Computing, Sungkyunkwan University  
+Spring 2017 – Fall2019  
+
+- In recognition of high scholastic achievement
+
+## Work Experience
+
+### Artificial Intelligence Institute of Seoul National University ([AIIS](#AIIS))
+
+Applied Data Science Laboratory ([ADSL](#ADSL))  
+Seoul, Korea  
+Jun. 2020 – Aug. 2020  
+
+- _Research Intern_
+- [Conducted research on model interpretability](#projects-at-aiis--adsl)
+
+### Electronics and Telecommunications Research Institute ([ETRI](#ETRI))
+
+Artificial Intelligence Research Laboratory  
+Daejeon, Korea  
+Jun. 2020 – Aug. 2020  
+
+- _Research Intern_
+- Conducted market research on cloud-based machine learning solutions
+- Tested and debugged ETRI Deep Learning HPC Platform Dashboard
+- [Implemented AlexNet and ResNet models with DL-MDL to serve as example deep learning models](#projects-at-etri)
+
+## Skills
+
+- Programming Language: C, C++, Python, JavaScript
+- Machine Learning Tool: TensorFlow, Keras, PyTorch
+
+----
+
+[PDF](CV.pdf)
 
 ----
 
