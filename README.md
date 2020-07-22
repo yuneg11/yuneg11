@@ -1,6 +1,77 @@
 # Curriculum Vitae
 
+## Education
+
+### Sungkyunkwan University
+
+Department of Computer Science and Engineering  
+Seoul, Korea  
+Mar. 2017 – Aug. 2020
+
+- _Bachelor of Science in Computer Science and Engineering_
+- Overall GPA: 4.33 / 4.5
+- Major GPA: 4.47 / 4.5
+- Relevant Courses
+  - Introduction to Artificial Intelligence
+  - Fundamentals of Machine Learning
+  - Introduction to Reinforcement Learning
+  - Artificial Intelligence Project
+
+## Awards and Honors
+
+### The National Scholarship for Science and Engineering
+
+Korea Student Aid Foundation  
+Spring 2019 – Spring 2020  
+
+- Full tuition
+
+### Sungkyun Software Scholarship
+
+Korea Student Aid Foundation  
+Spring 2017 – Fall 2018  
+
+- Half tuition
+
+### Dean’s List Award
+
+College of Computing, Sungkyunkwan University  
+Spring 2017 – Fall2019  
+
+- In recognition of high scholastic achievement
+
+## Work Experience
+
+### Artificial Intelligence Institute of Seoul National University (AIIS<sup>[1](#AIIS)</sup>)
+
+Applied Data Science Laboratory (ADSL<sup>[2](#ADSL)</sup>)  
+Seoul, Korea  
+Jun. 2020 – Aug. 2020  
+
+- _Research Intern_
+- Conducted research on model interpretability
+
+### Electronics and Telecommunications Research Institute (ETRI<sup>[3](#ETRI)</sup>)
+
+Artificial Intelligence Research Laboratory  
+Daejeon, Korea  
+Jun. 2020 – Aug. 2020  
+
+- _Research Intern_
+- Conducted market research on cloud-based machine learning solutions
+- Testedand debuggedETRI Deep Learning HPC Platform Dashboard
+- ImplementedAlexNet and ResNetmodels with DL-MDL to serve as example deep learning models
+
+## Skills
+
+- Programming Language: C, C++, Python, JavaScript
+- Machine Learning Tool: TensorFlow, Keras, PyTorch
+
+----
+
 [PDF](CV.pdf)
+
+<br>
 
 # Repository List
 
@@ -167,7 +238,7 @@
 
 <br>
 
-## Projects at ETRI<sup>[1](#ETRI)</sup>
+## Projects at ETRI<sup>[3](#ETRI)</sup>
 
 | Repository | Description |
 | ---- | ---- |
@@ -175,7 +246,7 @@
 
 <br>
 
-## Projects at AIIS<sup>[2](#AIIS)</sup> / ADSL<sup>[3](#ADSL)</sup>
+## Projects at AIIS<sup>[1](#AIIS)</sup> / ADSL<sup>[2](#ADSL)</sup>
 
 | Repository | Description |
 | ---- | ---- |
@@ -185,6 +256,6 @@
 
 ----
 
-<span id="ETRI">1</span>: [Electronics and Telecommunications Research Institute](https://www.etri.re.kr)<br>
-<span id="AIIS">2</span>: [Artificial Intelligence Institute of Seoul National University](https://www.facebook.com/ai.aiis.snu/)<br>
-<span id="ADSL">3</span>: [Applied Data Science Laboratory](http://adsl.snu.ac.kr)<br>
+<span id="AIIS">1</span>: [Artificial Intelligence Institute of Seoul National University](https://www.facebook.com/ai.aiis.snu/)  
+<span id="ADSL">2</span>: [Applied Data Science Laboratory](http://adsl.snu.ac.kr)  
+<span id="ETRI">3</span>: [Electronics and Telecommunications Research Institute](https://www.etri.re.kr)  
