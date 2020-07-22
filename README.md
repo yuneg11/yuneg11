@@ -10,13 +10,13 @@
 
 ### Operating Systems
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Project | [SKKU-OS-XV6](https://github.com/yuneg11/SKKU-OS-XV6) | XV6 |
 
 ### Computer Networks
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Homework 2 | [SKKU-NET-HW2](https://github.com/yuneg11/SKKU-NET-HW2) | Simple File Transfer Server and Client using TCP |
 | Homework 3 | [SKKU-NET-HW3](https://github.com/yuneg11/SKKU-NET-HW3) | Simple Video Streaming Server and Client using UDP and RTSP |
@@ -24,7 +24,7 @@
 
 ### Databases
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Homework 3 | [SKKU-DB-HW3](https://github.com/yuneg11/SKKU-DB-HW3) | C implementation of B-Tree |
 | Homework 4 | [SKKU-DB-HW4](https://github.com/yuneg11/SKKU-DB-HW4) | Implement SQL statement using Hadoop |
@@ -32,7 +32,7 @@
 
 ### Programming Languages
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Programming Assignment 1 | [SKKU-PL-PA1](https://github.com/yuneg11/SKKU-PL-PA1) | Calculator using ANTLR |
 | Programming Assignment 2 | [SKKU-PL-PA2](https://github.com/yuneg11/SKKU-PL-PA2) | Mini-Kotlin Recognizer using ANTLR |
@@ -40,7 +40,7 @@
 
 ### Computer Graphics
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Assignment 1 | [SKKU-CG-A1](https://github.com/yuneg11/SKKU-CG-A1) | Moving Circles using OpenGL |
 | Assignment 2 | [SKKU-CG-A2](https://github.com/yuneg11/SKKU-CG-A2) | Planet in Space using OpenGL |
@@ -49,13 +49,13 @@
 
 ### Artificial Intelligence
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Homework | [SKKU-AI-NeuralNetwork](https://github.com/yuneg11/SKKU-AI-NeuralNetwork) | C++ implementation of Shallow Neural Network |
 
 ### Machine Learning
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Homework 1 | [SKKU-ML-HW1](https://github.com/yuneg11/SKKU-ML-HW1) | Linear Regression and Logistic Regression |
 | Homework 2 | [SKKU-ML-HW2](https://github.com/yuneg11/SKKU-ML-HW2) | Softmax Classifier |
@@ -66,7 +66,7 @@
 
 ### Reinforcement Learning
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Assignment 1 | [SKKU-RL-A1](https://github.com/yuneg11/SKKU-RL-A1) | Frozen Lake |
 | Assignment 2 | [SKKU-RL-A2](https://github.com/yuneg11/SKKU-RL-A2) | OpenAI Gym Taxi-v3 with MC-Control and Q-Learning |
@@ -74,7 +74,7 @@
 
 ### Computer Vision
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Assignment 1 | [SKKU-CV-A1](https://github.com/yuneg11/SKKU-CV-A1) | Image Filtering, Edge Detection, Corner Detection |
 | Assignment 2 | [SKKU-CV-A2](https://github.com/yuneg11/SKKU-CV-A2) | 2D Transformation and Homography |
@@ -82,7 +82,7 @@
 
 ### Multicore Computing
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Project 1 | [SKKU-MC-P1](https://github.com/yuneg11/SKKU-MC-P1) | Parallel Skip List using PThread |
 | Project 2 | [SKKU-MC-P2](https://github.com/yuneg11/SKKU-MC-P2) | Parallel 3D Elastic Wave Modeling using OpenMP |
@@ -91,21 +91,21 @@
 
 ### Software Engineering
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Project | [SKKU-SE-Hakuhagu](https://github.com/yuneg11/SKKU-SE-Hakuhagu) | Hakuhagu (Online second-hand market using KakaoTalk, AWS, and Serverless) |
 
 ### Software Experiment 1 (Object Oriented Programming Project)
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Project | [SKKU-SWE1-CHMS](https://github.com/yuneg11/SKKU-SWE1-CHMS) | Computer Hardware Management System |
 
 ### Software Experiment 2 (System Programming Project)
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
-| Personal Assignment 0 | [SKKU-SWE2-PA0](https://github.com/yuneg11/SKKU-SWE2-PA0) | Programming Assignment 0: Self-implementation of string.h library |
+| Personal Assignment 0 | [SKKU-SWE2-PA0](https://github.com/yuneg11/SKKU-SWE2-PA0) | Self-implementation of string.h library |
 | Personal Assignment 1 | [SKKU-SWE2-PA1](https://github.com/yuneg11/SKKU-SWE2-PA1) | Bible Index Builder and Index Printer |
 | Personal Assignment 2 | [SKKU-SWE2-PA2](https://github.com/yuneg11/SKKU-SWE2-PA2) | Website Title Collector |
 | Personal Assignment 3 | [SKKU-SWE2-PA3](https://github.com/yuneg11/SKKU-SWE2-PA3) | Mini Shell |
@@ -114,26 +114,26 @@
 
 ### Software Experiment 3 (Mobile Programming Project)
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Project | [SKKU-SWE3-Modeola](https://github.com/yuneg11/SKKU-SWE3-Modeola) | Modeola (Todo Scheduler using ARTIK Cloud IoT platform) |
 
 ### Software Experiment 4 (Web Programming Project)
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Project | [SKKU-SWE4-SKKUWeb](https://github.com/yuneg11/SKKU-SWE4-SKKUWeb) | Self-implementation of SKKU Websites |
 
 ### Artificial Intelligence Project
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Homework 1 | [SKKU-AIP-HW1](https://github.com/yuneg11/SKKU-AIP-HW1) | Simple ResNet for CIFAR10 using TensorFlow |
 | Homework 2 | [SKKU-AIP-HW2](https://github.com/yuneg11/SKKU-AIP-HW2) | MNIST2Sequence using Tensorflow |
 
 ### Network Project
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Exercise 2 | [SKKU-NETP-EX2](https://github.com/yuneg11/SKKU-NETP-EX2) | NS3 Simulation of UDP Echo Client and UDP Echo Server |
 | Exercise 3 | [SKKU-NETP-EX3](https://github.com/yuneg11/SKKU-NETP-EX3) | NS3 Simulation of UDP Client and UDP Server |
@@ -148,7 +148,7 @@
 
 ### Computer Security
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | CTF Lab 1 | [SKKU-SEC-Lab1](https://github.com/yuneg11/SKKU-SEC-Lab1) | Confused Deputy |
 | CTF Lab 2 | [SKKU-SEC-Lab2](https://github.com/yuneg11/SKKU-SEC-Lab2) | TLS Forward Secrecy |
@@ -160,7 +160,7 @@
 
 ### Miscellaneous
 
-| Code | Repo | Description |
+| Code | Repository | Description |
 | ---- | ---- | ---- |
 | Weekly Quiz 1 | [SKKU-WQ-Q1](https://github.com/yuneg11/SKKU-WQ-Q1) | Text matching with wild cards |
 | Weekly Quiz 2 | [SKKU-WQ-Q2](https://github.com/yuneg11/SKKU-WQ-Q2) | Recurring Decimal |
@@ -169,7 +169,7 @@
 
 ## Projects at ETRI<sup>[1](#ETRI)</sup>
 
-| Repo | Description |
+| Repository | Description |
 | ---- | ---- |
 | [DLMDL-Example-Models](https://github.com/yuneg11/DLMDL-Example-Models) | Example models for DLMDL |
 
@@ -177,7 +177,7 @@
 
 ## Projects at AIIS<sup>[2](#AIIS)</sup> / ADSL<sup>[3](#ADSL)</sup>
 
-| Repo | Description |
+| Repository | Description |
 | ---- | ---- |
 | [CNN-Visualization](https://github.com/yuneg11/CNN-Visualization) | CNN visualization methods |
 
