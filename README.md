@@ -1,3 +1,7 @@
+# Curriculum Vitae
+
+[PDF](CV.pdf)
+
 # Repository List
 
 **Some repositories are private**
@@ -181,9 +185,6 @@
 
 ----
 
-<span id="ETRI">1</span>: [Electronics and Telecommunications Research Institute](https://www.etri.re.kr)
-<span id="AIIS">2</span>: [Artificial Intelligence Institute of Seoul National University](https://www.facebook.com/ai.aiis.snu/)
-<span id="ADSL">3</span>: [Applied Data Science Laboratory](http://adsl.snu.ac.kr)
-
-# Curriculum Vitae
-[PDF](CV.pdf)
+<span id="ETRI">1</span>: [Electronics and Telecommunications Research Institute](https://www.etri.re.kr)<br>
+<span id="AIIS">2</span>: [Artificial Intelligence Institute of Seoul National University](https://www.facebook.com/ai.aiis.snu/)<br>
+<span id="ADSL">3</span>: [Applied Data Science Laboratory](http://adsl.snu.ac.kr)<br>
