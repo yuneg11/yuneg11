@@ -1,2 +1,3 @@
-## [Repository List](RepositoryList.md)
-## [Curriculum Vitae](CurriculumVitae.md)
+**[Repository List](RepositoryList.md)**  
+
+**[Curriculum Vitae](CurriculumVitae.md)**  
