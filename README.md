@@ -1,3 +1,3 @@
-**[Repository List](yuneg11/RepositoryList.md)**  
+**[Repository List](./RepositoryList.md)**  
 
-**[Curriculum Vitae](yuneg11/CurriculumVitae.md)**  
+**[Curriculum Vitae](./CurriculumVitae.md)**  
