@@ -1,3 +1,3 @@
-**[Repository List](https://github.com/yuneg11/yuneg11/RepositoryList.md)**  
+**[Repository List](https://github.com/yuneg11/yuneg11/blob/master/RepositoryList.md)**  
 
-**[Curriculum Vitae](https://github.com/yuneg11/yuneg11/CurriculumVitae.md)**  
+**[Curriculum Vitae](https://github.com/yuneg11/yuneg11/blob/master/CurriculumVitae.md)**  
