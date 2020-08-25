@@ -50,10 +50,11 @@ Spring 2017 – Fall2019
 
 Applied Data Science Laboratory ([ADSL](#ADSL))  
 Seoul, Korea  
-Jun. 2020 – Aug. 2020  
+Jun. 2020 – Sep. 2020  
 
 - _Research Intern_
 - [Conducted research on model interpretability](RepositoryList.md#projects-at-aiis--adsl)
+- Conducted research on model representation
 
 ### Electronics and Telecommunications Research Institute ([ETRI](#ETRI))
 
