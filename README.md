@@ -2,4 +2,4 @@
 
 **[Curriculum Vitae](https://github.com/yuneg11/yuneg11/blob/master/CurriculumVitae.md)**  
 
-![EungGu Yun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuneg11)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuneg11&layout=compact&langs_count=6)
