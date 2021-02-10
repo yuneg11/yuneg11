@@ -1,6 +1,6 @@
 # Repository List
 
-**Some repositories are private**
+❗Some repositories are **_private_**
 
 ## Courseworks at Sungkyunkwan University
 
