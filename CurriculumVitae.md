@@ -30,7 +30,7 @@ Spring 2019 – Spring 2020
 
 ### Sungkyun Software Scholarship
 
-Sungkyunkwan University
+Sungkyunkwan University  
 Spring 2017 – Fall 2018  
 
 - Half tuition
