@@ -38,7 +38,7 @@ Spring 2017 – Fall 2018
 ### Dean’s List Award
 
 College of Computing, Sungkyunkwan University  
-Spring 2017 – Fall2019  
+Spring 2017 – Fall 2019  
 
 - In recognition of high scholastic achievement
 
