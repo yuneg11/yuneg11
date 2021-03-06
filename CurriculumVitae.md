@@ -60,7 +60,7 @@ Jun. 2020 – Sep. 2020
 
 Artificial Intelligence Research Laboratory  
 Daejeon, Korea  
-Jun. 2020 – Aug. 2020  
+Jan. 2020 – Feb. 2020  
 
 - _Research Intern_
 - Conducted market research on cloud-based machine learning solutions
