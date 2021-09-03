@@ -2,6 +2,14 @@
 
 ## Education
 
+### Korea Advanced Institute of Science and Technology (KAIST)
+
+Graduate School of AI  
+Daejeon, Korea  
+Mar. 2021 – Now
+
+- M.S. student
+
 ### Sungkyunkwan University
 
 Department of Computer Science and Engineering  
