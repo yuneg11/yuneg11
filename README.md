@@ -1,4 +1,4 @@
-[CV](https://github.com/yuneg11/yuneg11/blob/master/CurriculumVitae.md)
+[Curriculum Vitae](https://github.com/yuneg11/Curriculum-Vitae/blob/master/cv.pdf)
 
 [Repository List](https://github.com/yuneg11/yuneg11/blob/master/RepositoryList.md)
 
