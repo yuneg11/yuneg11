@@ -2,9 +2,9 @@
 
 [Website](https://yuneg11.github.io) · [CV](https://github.com/yuneg11/Curriculum-Vitae/blob/main/cv.pdf) · [Scholar](https://scholar.google.com/citations?user=r7-847MAAAAJ) · [LinkedIn](https://www.linkedin.com/in/yuneg)
 
-I am an AI researcher at [SAIGE](https://saige.ai/en/), working on industrial computer vision.
-I specialize in image anomaly detection and efficient training and inference, with a strong interest in [incorporating language into vision systems](https://arxiv.org/abs/2503.01184) for data-efficient and context-aware solutions.
-During my M.S. at [KAIST](https://www.kaist.ac.kr/en/), I studied the [loss landscape](https://arxiv.org/abs/2306.11304) of neural networks.
+I am an AI researcher at [KRAFTON](https://www.krafton.com/), working on the evaluation of large language models and speech models. I assess model capabilities and examine their behavior in conversational and agentic settings.
+
+During my M.S. at [KAIST](https://www.kaist.ac.kr/en/), I studied the [loss landscape](https://arxiv.org/abs/2306.11304) of neural networks. After graduating, I worked on computer vision at [SAIGE](https://saige.ai/en/), particularly image anomaly detection and language-assisted vision.
 
 ## Research Interests
 
